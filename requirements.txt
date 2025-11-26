@@ -1,0 +1,22 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+jupyterlab
+pyyaml
+joblib
+findspark
+pyspark
+streamlit
+plotly
+geopandas
+reportlab
+kaleido
+fpdf2
+weasyprint
+xgboost
+
+# Optional but recommended
+pymc3
